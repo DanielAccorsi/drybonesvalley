@@ -13,3 +13,4 @@ Project **Dry Bones Valley**
 * Support the game and others projects: 
 * * 🇺🇸 https://www.patreon.com/DanielAccorsi
 * * 🇧🇷 https://www.catarse.me/gamedev
+* * Youtube channel: https://www.youtube.com/c/InteraGames _(please, help me translate the subtitles to english)_
